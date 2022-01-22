@@ -1,5 +1,5 @@
 //Time
-let time = function () {
+var time = function () {
     document.getElementById("currentDay").innerHTML = moment().format(
       "dddd, MMM Do, h:mm:ss a"
     );
