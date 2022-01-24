@@ -13,7 +13,7 @@
 https://glgberat.github.io/work-day-scheduler/
 
 ## Screenshots
-![Work-Day-Scheduler](https://glgberat.github.io/work-day-scheduler/assets/screenshot.png)
+![Work-Day-Scheduler](https://glgberat.github.io/work-day-scheduler/assets/screenshot1.png)
 
 
 ## Contribution
